@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\UserInputSample\bin\Debug\net7.0\UserInputSample.exe
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\UserInputSample\bin\Debug\net7.0\UserInputSample.deps.json
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\UserInputSample\bin\Debug\net7.0\UserInputSample.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\UserInputSample\bin\Debug\net7.0\UserInputSample.dll
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\UserInputSample\bin\Debug\net7.0\UserInputSample.pdb
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\UserInputSample\obj\Debug\net7.0\UserInputSample.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\UserInputSample\obj\Debug\net7.0\UserInputSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\UserInputSample\obj\Debug\net7.0\UserInputSample.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\UserInputSample\obj\Debug\net7.0\UserInputSample.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\UserInputSample\obj\Debug\net7.0\UserInputSample.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\UserInputSample\obj\Debug\net7.0\UserInputSample.dll
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\UserInputSample\obj\Debug\net7.0\refint\UserInputSample.dll
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\UserInputSample\obj\Debug\net7.0\UserInputSample.pdb
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\UserInputSample\obj\Debug\net7.0\UserInputSample.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\UserInputSample\obj\Debug\net7.0\ref\UserInputSample.dll
