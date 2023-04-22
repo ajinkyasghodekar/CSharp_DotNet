@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ProblemStatementChallenge\bin\Debug\net7.0\ProblemStatement1.exe
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ProblemStatementChallenge\bin\Debug\net7.0\ProblemStatement1.deps.json
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ProblemStatementChallenge\bin\Debug\net7.0\ProblemStatement1.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ProblemStatementChallenge\bin\Debug\net7.0\ProblemStatement1.dll
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ProblemStatementChallenge\bin\Debug\net7.0\ProblemStatement1.pdb
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ProblemStatementChallenge\obj\Debug\net7.0\ProblemStatement1.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ProblemStatementChallenge\obj\Debug\net7.0\ProblemStatement1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ProblemStatementChallenge\obj\Debug\net7.0\ProblemStatement1.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ProblemStatementChallenge\obj\Debug\net7.0\ProblemStatement1.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ProblemStatementChallenge\obj\Debug\net7.0\ProblemStatement1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ProblemStatementChallenge\obj\Debug\net7.0\ProblemStatement1.dll
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ProblemStatementChallenge\obj\Debug\net7.0\refint\ProblemStatement1.dll
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ProblemStatementChallenge\obj\Debug\net7.0\ProblemStatement1.pdb
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ProblemStatementChallenge\obj\Debug\net7.0\ProblemStatement1.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ProblemStatementChallenge\obj\Debug\net7.0\ref\ProblemStatement1.dll
