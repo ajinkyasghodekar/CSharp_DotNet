@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\DoubleExamples\bin\Debug\net7.0\DoubleExamples.exe
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\DoubleExamples\bin\Debug\net7.0\DoubleExamples.deps.json
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\DoubleExamples\bin\Debug\net7.0\DoubleExamples.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\DoubleExamples\bin\Debug\net7.0\DoubleExamples.dll
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\DoubleExamples\bin\Debug\net7.0\DoubleExamples.pdb
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\DoubleExamples\obj\Debug\net7.0\DoubleExamples.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\DoubleExamples\obj\Debug\net7.0\DoubleExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\DoubleExamples\obj\Debug\net7.0\DoubleExamples.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\DoubleExamples\obj\Debug\net7.0\DoubleExamples.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\DoubleExamples\obj\Debug\net7.0\DoubleExamples.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\DoubleExamples\obj\Debug\net7.0\DoubleExamples.dll
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\DoubleExamples\obj\Debug\net7.0\refint\DoubleExamples.dll
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\DoubleExamples\obj\Debug\net7.0\DoubleExamples.pdb
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\DoubleExamples\obj\Debug\net7.0\DoubleExamples.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\DoubleExamples\obj\Debug\net7.0\ref\DoubleExamples.dll
