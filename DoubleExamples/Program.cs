@@ -29,6 +29,18 @@ namespace DoubleExamples
             decimal di2 = decimal.MaxValue;
             Console.WriteLine($"The range of decimal is from {di1} to {di2}.");
 
+            // double and decimal simple examples
+            double num1 = 1.0;
+            double num2 = 3.0;
+            double result1 = num1 / num2;
+            Console.WriteLine("Value of double expression is: " +result1);
+
+            // Here M is written at suffix of number declared becouse to let compiler understand that it is a decimal number.  
+            decimal n1 = 1.0M;
+            decimal n2 = 3.0M;
+            decimal result2 = n1 / n2;
+            Console.WriteLine("Value of decimal expression is: " +result2);
+            
             Console.WriteLine();
         }
     }
