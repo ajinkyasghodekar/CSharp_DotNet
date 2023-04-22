@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\NumberIntegersExamples\bin\Debug\net7.0\NumberIntegersExamples.exe
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\NumberIntegersExamples\bin\Debug\net7.0\NumberIntegersExamples.deps.json
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\NumberIntegersExamples\bin\Debug\net7.0\NumberIntegersExamples.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\NumberIntegersExamples\bin\Debug\net7.0\NumberIntegersExamples.dll
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\NumberIntegersExamples\bin\Debug\net7.0\NumberIntegersExamples.pdb
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\NumberIntegersExamples\obj\Debug\net7.0\NumberIntegersExamples.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\NumberIntegersExamples\obj\Debug\net7.0\NumberIntegersExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\NumberIntegersExamples\obj\Debug\net7.0\NumberIntegersExamples.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\NumberIntegersExamples\obj\Debug\net7.0\NumberIntegersExamples.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\NumberIntegersExamples\obj\Debug\net7.0\NumberIntegersExamples.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\NumberIntegersExamples\obj\Debug\net7.0\NumberIntegersExamples.dll
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\NumberIntegersExamples\obj\Debug\net7.0\refint\NumberIntegersExamples.dll
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\NumberIntegersExamples\obj\Debug\net7.0\NumberIntegersExamples.pdb
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\NumberIntegersExamples\obj\Debug\net7.0\NumberIntegersExamples.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\NumberIntegersExamples\obj\Debug\net7.0\ref\NumberIntegersExamples.dll
