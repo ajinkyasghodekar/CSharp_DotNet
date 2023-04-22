@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\LoopsExamples\bin\Debug\net7.0\LoopsExamples.exe
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\LoopsExamples\bin\Debug\net7.0\LoopsExamples.deps.json
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\LoopsExamples\bin\Debug\net7.0\LoopsExamples.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\LoopsExamples\bin\Debug\net7.0\LoopsExamples.dll
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\LoopsExamples\bin\Debug\net7.0\LoopsExamples.pdb
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\LoopsExamples\obj\Debug\net7.0\LoopsExamples.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\LoopsExamples\obj\Debug\net7.0\LoopsExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\LoopsExamples\obj\Debug\net7.0\LoopsExamples.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\LoopsExamples\obj\Debug\net7.0\LoopsExamples.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\LoopsExamples\obj\Debug\net7.0\LoopsExamples.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\LoopsExamples\obj\Debug\net7.0\LoopsExamples.dll
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\LoopsExamples\obj\Debug\net7.0\refint\LoopsExamples.dll
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\LoopsExamples\obj\Debug\net7.0\LoopsExamples.pdb
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\LoopsExamples\obj\Debug\net7.0\LoopsExamples.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\LoopsExamples\obj\Debug\net7.0\ref\LoopsExamples.dll
