@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\BranchesExamples\bin\Debug\net7.0\BranchesExamples.exe
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\BranchesExamples\bin\Debug\net7.0\BranchesExamples.deps.json
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\BranchesExamples\bin\Debug\net7.0\BranchesExamples.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\BranchesExamples\bin\Debug\net7.0\BranchesExamples.dll
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\BranchesExamples\bin\Debug\net7.0\BranchesExamples.pdb
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\BranchesExamples\obj\Debug\net7.0\BranchesExamples.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\BranchesExamples\obj\Debug\net7.0\BranchesExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\BranchesExamples\obj\Debug\net7.0\BranchesExamples.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\BranchesExamples\obj\Debug\net7.0\BranchesExamples.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\BranchesExamples\obj\Debug\net7.0\BranchesExamples.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\BranchesExamples\obj\Debug\net7.0\BranchesExamples.dll
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\BranchesExamples\obj\Debug\net7.0\refint\BranchesExamples.dll
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\BranchesExamples\obj\Debug\net7.0\BranchesExamples.pdb
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\BranchesExamples\obj\Debug\net7.0\BranchesExamples.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\CSharp_DotNet\BranchesExamples\obj\Debug\net7.0\ref\BranchesExamples.dll
