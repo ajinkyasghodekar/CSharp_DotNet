@@ -65,5 +65,19 @@ namespace MyBankAccountApp
             var Withdrawl = new Transactions(-amount, date, note);
             AllTransactions.Add(Withdrawl);
         }
+
+        // Generate a report for account history
+        public string getAccountHistory()
+        {
+            var report = new System.Text.StringBuilder();
+            decimal balance = 0;
+            Console.WriteLine("Amount \t\t\t Notes \t\t Date");
+            foreach (var item in AllTransactions)
+            {
+                balance = balance + item.Amount;
+                report.AppendLine($"{item.Amount}\t\t\t{item.Notes}\t\t{item.Date}");
+            }
+            return report.ToString();
+        }
     }
 }
