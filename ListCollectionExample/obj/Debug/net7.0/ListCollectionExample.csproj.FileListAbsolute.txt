@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ListCollectionExample\bin\Debug\net7.0\ListCollectionExample.exe
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ListCollectionExample\bin\Debug\net7.0\ListCollectionExample.deps.json
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ListCollectionExample\bin\Debug\net7.0\ListCollectionExample.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ListCollectionExample\bin\Debug\net7.0\ListCollectionExample.dll
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ListCollectionExample\bin\Debug\net7.0\ListCollectionExample.pdb
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ListCollectionExample\obj\Debug\net7.0\ListCollectionExample.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ListCollectionExample\obj\Debug\net7.0\ListCollectionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ListCollectionExample\obj\Debug\net7.0\ListCollectionExample.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ListCollectionExample\obj\Debug\net7.0\ListCollectionExample.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ListCollectionExample\obj\Debug\net7.0\ListCollectionExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ListCollectionExample\obj\Debug\net7.0\ListCollectionExample.dll
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ListCollectionExample\obj\Debug\net7.0\refint\ListCollectionExample.dll
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ListCollectionExample\obj\Debug\net7.0\ListCollectionExample.pdb
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ListCollectionExample\obj\Debug\net7.0\ListCollectionExample.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Examples\ListCollectionExample\obj\Debug\net7.0\ref\ListCollectionExample.dll
