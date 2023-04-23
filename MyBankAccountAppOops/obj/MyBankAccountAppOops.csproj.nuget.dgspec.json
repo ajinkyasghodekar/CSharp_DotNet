@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\OneDrive\\Desktop\\Csharp_DotNet_Examples\\MyBankAccountAppOops\\MyBankAccountAppOops.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Desktop\\Csharp_DotNet_Basics\\MyBankAccountAppOops\\MyBankAccountAppOops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\OneDrive\\Desktop\\Csharp_DotNet_Examples\\MyBankAccountAppOops\\MyBankAccountAppOops.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Desktop\\Csharp_DotNet_Basics\\MyBankAccountAppOops\\MyBankAccountAppOops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\Csharp_DotNet_Examples\\MyBankAccountAppOops\\MyBankAccountAppOops.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\Csharp_DotNet_Basics\\MyBankAccountAppOops\\MyBankAccountAppOops.csproj",
         "projectName": "MyBankAccountAppOops",
-        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Csharp_DotNet_Examples\\MyBankAccountAppOops\\MyBankAccountAppOops.csproj",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Csharp_DotNet_Basics\\MyBankAccountAppOops\\MyBankAccountAppOops.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Csharp_DotNet_Examples\\MyBankAccountAppOops\\obj\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Csharp_DotNet_Basics\\MyBankAccountAppOops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
